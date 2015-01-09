@@ -1,6 +1,0 @@
-Distutils.egg-info/
-build/
-dist/
-retarget.spec
-install.log
-*.bak
